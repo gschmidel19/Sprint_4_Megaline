@@ -22,15 +22,15 @@ O objetivo é analisar o comportamento dos clientes e determinar qual dos planos
 
 Sprint_4_Megaline/
 
-data/
-── megaline_calls.csv
-── megaline_internet.csv
-── megaline_messages.csv
-── megaline_plans.csv
-── megaline_users.csv
+data
+1.megaline_calls.csv
+2.megaline_internet.csv
+3.megaline_messages.csv
+4.megaline_plans.csv
+5.megaline_users.csv
 
- notebooks/
-── sprint_4_megaline_analysis.ipynb
+notebooks/
+1.sprint_4_megaline_analysis.ipynb
 
 README.md
 requirements.txt
@@ -69,4 +69,5 @@ Autor
 Gabriel Schmidel 
 LinkedIn
 gschmidel@hotmail.com
+
 
