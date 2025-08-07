@@ -21,20 +21,19 @@ O objetivo é analisar o comportamento dos clientes e determinar qual dos planos
 ## Estrutura do Repositório
 
 Sprint_4_Megaline/
-│
-├── data/
-│ ├── megaline_calls.csv
-│ ├── megaline_internet.csv
-│ ├── megaline_messages.csv
-│ ├── megaline_plans.csv
-│ └── megaline_users.csv
-│
-├── notebooks/
-│ └── sprint_4_megaline_analysis.ipynb
-│
-├── README.md
-│
-└── requirements.txt
+
+data/
+── megaline_calls.csv
+── megaline_internet.csv
+── megaline_messages.csv
+── megaline_plans.csv
+── megaline_users.csv
+
+ notebooks/
+── sprint_4_megaline_analysis.ipynb
+
+README.md
+requirements.txt
 
 ---
 
@@ -70,3 +69,4 @@ Autor
 Gabriel Schmidel 
 LinkedIn
 gschmidel@hotmail.com
+
