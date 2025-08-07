@@ -30,21 +30,7 @@ Repositório com os projetos desenvolvidos durante o curso de formação em Aná
 
 ---
 
-###  Estrutura (Sprint 4)
-Sprint_4_Megaline/
-│
-├── datasets/
-│ ├── megaline_calls.csv
-│ ├── megaline_internet.csv
-│ ├── megaline_messages.csv
-│ ├── megaline_plans.csv
-│ └── megaline_users.csv
-│
-├── notebooks/
-│ └── sprint_4_megaline_analysis.ipynb
-│
-├── README.md
-└── requirements.txt
+
 
 
 
