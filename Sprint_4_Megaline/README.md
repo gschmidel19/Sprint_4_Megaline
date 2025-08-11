@@ -1,4 +1,4 @@
-# Sprint 4 - Projeto Megaline: Análise Estatística de Dados
+# Projeto Megaline: Análise Estatística de Dados
 
 ## Descrição do Projeto
 
@@ -69,5 +69,6 @@ Autor
 Gabriel Schmidel 
 LinkedIn
 gschmidel@hotmail.com
+
 
 
