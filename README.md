@@ -1,3 +1,22 @@
+# Projeto Megaline: Análise Estatística de Dados
+
+## Descrição do Projeto
+
+Neste projeto, você trabalha como analista de dados para a empresa de telecomunicações Megaline, que oferece dois planos pré-pagos: **Surf** e **Ultimate**.  
+O objetivo é analisar o comportamento dos clientes e determinar qual dos planos gera mais receita para a empresa, a partir dos dados de 500 clientes em 2018.
+
+---
+
+## Objetivos
+
+- Preparar e limpar os dados das tabelas fornecidas: usuários, chamadas, mensagens, internet e planos.  
+- Calcular métricas mensais por usuário: minutos usados, mensagens enviadas, volume de dados consumidos e receita gerada.  
+- Descrever o comportamento dos clientes para cada plano com estatísticas descritivas (média, variância, desvio padrão).  
+- Visualizar distribuições por meio de histogramas.  
+- Testar hipóteses estatísticas para comparar receitas médias entre planos e regiões.  
+- Concluir qual plano é mais rentável para a empresa.
+
+
 # Projetos do Bootcamp de Análise de Dados — TripleTen
 
 Repositório com os projetos desenvolvidos durante o curso de formação em Análise de Dados da [TripleTen](https://tripleten.com).
